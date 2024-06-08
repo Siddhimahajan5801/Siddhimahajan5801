@@ -2,7 +2,7 @@
 
 # 😎 About Me:
 
-- 💻 I'm a Tech enthusiast and a front-end developer. I specialize in creating responsive, user-friendly web applications with clean, efficient code.
+- 💻 I'm a tech enthusiast and a front-end developer. I specialize in creating responsive, user-friendly web applications with clean, efficient code.
 
 
 ## 💻 Technologies and tools I use:
